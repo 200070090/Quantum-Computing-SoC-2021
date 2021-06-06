@@ -1,0 +1,10 @@
+namespace Solution {
+    open Microsoft.Quantum.Intrinsic;
+
+    operation Solve (unitary : (Qubit[] => Unit is Adj+Ctl)) : Int {
+        use qs=Qubit[2];
+        X(qs[1]);
+        unitary(qs);
+        return M(qs[0])==One?1|0; 
+    }
+}
