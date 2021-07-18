@@ -23,11 +23,8 @@ We also looked at some other applications of QFT such as period finding and disc
 ## Implementation through code
 We learnt Q# and Qiskit from online sources like jupyter notebooks, which provided plenty practice problems and also taught us how to implement several algorithms in these languages. Some of these algorithms implemented by me in jupyter notebooks are given on this repository. They can be properly rendered using the following links.
 
-1. Item 1 [Quantum Teleportation](http://localhost:8889/notebooks/Quantum%20Teleportation.ipynb)
-1. Item 2 [Quantum Fourier Transform](http://localhost:8889/notebooks/Quantum%20Fourier%20Transform.ipynb)
-
-[Phase Estimation](http://localhost:8889/notebooks/Phase%20Estimation.ipynb)
-
-[Bernstein-Vazirani Algorithm](http://localhost:8889/notebooks/Bernstein-Vazirani%20Algorithm.ipynb)
-
-[Superdense Coding](http://localhost:8889/notebooks/Superdense%20Coding.ipynb)
+1. [Quantum Teleportation](http://localhost:8889/notebooks/Quantum%20Teleportation.ipynb)
+1. [Quantum Fourier Transform](http://localhost:8889/notebooks/Quantum%20Fourier%20Transform.ipynb)
+1. [Phase Estimation](http://localhost:8889/notebooks/Phase%20Estimation.ipynb)
+1. [Bernstein-Vazirani Algorithm](http://localhost:8889/notebooks/Bernstein-Vazirani%20Algorithm.ipynb)
+1. [Superdense Coding](http://localhost:8889/notebooks/Superdense%20Coding.ipynb)
