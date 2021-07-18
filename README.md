@@ -23,4 +23,5 @@ We also looked at some other applications of QFT such as period finding and disc
 ## Implementation through code
 We learnt Q# and Qiskit from online sources like jupyter notebooks, which provided plenty practice problems and also taught us how to implement several algorithms in these languages. Some of these algorithms implemented by me in jupyter notebooks are given on this repository. They can be properly rendered using the following links.
 
+[Quantum Teleportation](http://localhost:8889/notebooks/Quantum%20Teleportation.ipynb)
 [Quantum Fourier Transform](http://localhost:8889/notebooks/Quantum%20Fourier%20Transform.ipynb)
