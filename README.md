@@ -17,7 +17,8 @@ The Quantum Fourier Transform plays a vital role in many algorithms, which were 
 
 Then we learnt about the phase estimation algorithm where we found how to estimate the phase of the eigenvalue of a unitary operator U, where the eigenvector was given. This utilised repeated use of controlled U operator followed by an inverse QFT and measurement to obtain an estimate of the phase. We also looked at how many qubit register would be needed to obtain an estimation to a given accuracy.
 
-Next we looked at the order finding algorithm, which had direct application in Shor's factoring algorithm (massively faster than classical factorisation algos) and some results from discrete math and modular arithmetic were used here. The quantum part of Shor's algorithm was essentially just the order finding sub-routine.
+Next we looked at the order finding algorithm, which had direct application in Shor's factoring algorithm (massively faster than classical factorisation algos). The quantum part of Shor's algorithm was essentially just the order finding sub-routine.
 
 We also looked at some other applications of QFT such as period finding and discrete logarithms before concluding this topic.
 ## Implementation through code
+We learnt Q# and Qiskit from online sources like jupyter notebooks, which provided plenty practice problems and also taught us how to implement several algorithms in these languages. Some of these algorithms implemented by me are given below.
